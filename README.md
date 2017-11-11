@@ -1,4 +1,5 @@
 This is a project using Spark.
 
-Marcos David Sierra Gallego
-Mateo Hincapie Zapata
+1. Marcos David Sierra Gallego
+2. Mateo Hincapie Zapata
+3. Daniel Restrepo Aristizabal
